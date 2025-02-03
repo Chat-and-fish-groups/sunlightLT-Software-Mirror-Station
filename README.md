@@ -30,3 +30,4 @@ bilibili:github sunlightLT
 # 期待
 欢迎大家在bilibili和github上关注我们
 ![img](https://github.com/Chat-and-fish-groups/sunlightLT-Software-Mirror-Station/blob/main/logo/R-C%20(1).gif)
+![img](https://github.com/Chat-and-fish-groups/sunlightLT-Software-Mirror-Station/blob/main/logo/R-C%20(1).gif)
